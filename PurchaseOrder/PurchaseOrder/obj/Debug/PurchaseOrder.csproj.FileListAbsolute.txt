@@ -78,6 +78,5 @@ H:\Practice project\PurchaseOrderApp\PurchaseOrder\PurchaseOrder\bin\Antlr3.Runt
 H:\Practice project\PurchaseOrderApp\PurchaseOrder\PurchaseOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 H:\Practice project\PurchaseOrderApp\PurchaseOrder\PurchaseOrder\obj\Debug\PurchaseOrder.csproj.AssemblyReference.cache
 H:\Practice project\PurchaseOrderApp\PurchaseOrder\PurchaseOrder\obj\Debug\PurchaseOrder.csproj.CoreCompileInputs.cache
-H:\Practice project\PurchaseOrderApp\PurchaseOrder\PurchaseOrder\obj\Debug\PurchaseOrder.csproj.CopyComplete
 H:\Practice project\PurchaseOrderApp\PurchaseOrder\PurchaseOrder\obj\Debug\PurchaseOrder.dll
 H:\Practice project\PurchaseOrderApp\PurchaseOrder\PurchaseOrder\obj\Debug\PurchaseOrder.pdb
